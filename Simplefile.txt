@@ -1,5 +1,5 @@
-orange
+rose
 apple
-mango
+pineapple
 grapes
-banana
+coconut
